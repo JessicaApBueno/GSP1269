@@ -31,4 +31,4 @@ Understand the process to utilize supervised fine-tuning.
 Enhance results from Gemini using data from BigQuery.
 Fine-tune Gemini using question & answer data from StackOverflow.
 
-Lab Link: https://www.cloudskillsboost.google/games/5996/labs/38261?locale=en
+Lab Link: https://www.cloudskillsboost.google/games/5996/labs/38261?locale=en# GSP1272
